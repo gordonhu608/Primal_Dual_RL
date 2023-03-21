@@ -2,10 +2,10 @@
 
 
 <div style="display: flex;">
-  <div style="flex: 50%; padding-right: 10px;">
+  <div style="flex: 40%; padding-right: 10px;">
     <img src="plotting/p_d_stochastic.png" alt="Plot 1">
   </div>
-  <div style="flex: 50%; padding-left: 10px;">
+  <div style="flex: 40%; padding-left: 10px;">
     <img src="plotting/Actor_Critic.png" alt="Plot 2">
   </div>
 </div>
