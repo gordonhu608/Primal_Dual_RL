@@ -1,13 +1,9 @@
 # Primal_Dual_RL
 
 
-<div style="display: flex;">
-  <div style="flex: 40%; padding-right: 10px;">
-    <img src="plotting/p_d_stochastic.png" alt="Plot 1">
-  </div>
-  <div style="flex: 40%; padding-left: 10px;">
-    <img src="plotting/Actor_Critic.png" alt="Plot 2">
-  </div>
+<div style="display: flex; flex-direction: row;">
+  <img src="lotting/p_d_stochastic.png" alt="Graph 1" width="400" height="300" />
+  <img src="plotting/Actor_Critic.png" alt="Graph 2" width="400" height="300" />
 </div>
 
 Result of our primal dual method (converges at 500 episodes)
